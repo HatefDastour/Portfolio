@@ -50,8 +50,8 @@
 	* [Exploratory Data Analysis](real_estate/King_County_House_Sales_EDA.ipynb)
 	* [Stacked Modeling](real_estate/King_County_House_Sales_Stacked_Modeling.ipynb)
 * Calgary Property Assessments
-	* [Preprocessing](real_estate/Calgary_real_estates_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](real_estate/Calgary_real_estates_Analysis.ipynb)
+	* [Preprocessing](real_estate/Calgary_Property_Assessments_Preprocessing.ipynb)
+	* [Exploratory Data Analysis](real_estate/Calgary_Property_Assessments_Analysis.ipynb)
 	
 ## Recommendation System
 
