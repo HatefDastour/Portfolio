@@ -1,11 +1,13 @@
-# Property Assessment
+# Real Estate
 
 ## Table of contents
 
-* [Property Assessment (King County)](property_assessment_King_County.ipynb)
+* King County House Sales
+	* [Exploratory Data Analysis](King_County_House_Sales_EDA.ipynb)
+	* [Stacked Modeling](King_County_House_Sales_Stacked_Modeling.ipynb)
 * Calgary Property Assessments
-	* [Preprocessing](Calgary_Property_Assessments_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](Calgary_Property_Assessments_Analysis.ipynb)
+	* [Preprocessing](Calgary_real_estates_Preprocessing.ipynb)
+	* [Exploratory Data Analysis](Calgary_real_estates_Analysis.ipynb)
 
 
 ## Copyright and License

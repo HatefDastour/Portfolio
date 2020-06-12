@@ -44,12 +44,14 @@
 	* [Modeling using Natural Language Toolkit and Naive Bayes Classifier (Improved Model)](natural_language_processing/Movie_Reviews_Comments_classifications_using_Modeling_using_NLTK_Improved_Model.ipynb)
 * [Consumer Finance Complaints Analyzing and Modeling (using Keras Text Classification)](natural_language_processing/Consumer_Finance_Complaints_Analyzing_and_Modeling_(using_Keras_Text_Classification).ipynb)
 
-## Property Assessment
+## Real Estate
 
-* [Property Assessment (King County)](property_assessment/property_assessment_King_County.ipynb)
+* King County House Sales
+	* [Exploratory Data Analysis](real_estate/King_County_House_Sales_EDA.ipynb)
+	* [Stacked Modeling](real_estate/King_County_House_Sales_Stacked_Modeling.ipynb)
 * Calgary Property Assessments
-	* [Preprocessing](property_assessment/Calgary_Property_Assessments_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](property_assessment/Calgary_Property_Assessments_Analysis.ipynb)
+	* [Preprocessing](real_estate/Calgary_real_estates_Preprocessing.ipynb)
+	* [Exploratory Data Analysis](real_estate/Calgary_real_estates_Analysis.ipynb)
 	
 ## Recommendation System
 
