@@ -7,7 +7,7 @@
 	* [Stacked Modeling](King_County_House_Sales_Stacked_Modeling.ipynb)
 * Calgary Property Assessments
 	* [Preprocessing](Calgary_Property_Assessments_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](Calgary_Property_Assessments_Analysis.ipynb)
+	* [Exploratory Data Analysis](Calgary_Property_Assessments_EDA.ipynb)
 
 
 ## Copyright and License
