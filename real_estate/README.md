@@ -6,7 +6,7 @@
 
 * Airbnb Listings
 	* [Preprocessing](Airbnb_Listings_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](Airbnb_Listings_real_estate.ipynb)
+	* [Exploratory Data Analysis](Airbnb_Listings_exploratory_data_analysis.ipynb)
 	
 * Calgary Property Assessments
 	* [Preprocessing](Calgary_Property_Assessments_Preprocessing.ipynb)
