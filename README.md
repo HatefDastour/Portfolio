@@ -4,17 +4,9 @@
 
 ## Business Analytics and Modeling
 
-### Customer Relationship Management
+### Ecommerce Personalization
 * [An Example for RFM Scoring](business_analytics_and_modeling/RFM_Scoring.ipynb)
 * [Consumer Finance Complaints Analyzing and Modeling (using Keras Text Classification)](natural_language_processing/Consumer_Finance_Complaints_Analyzing_and_Modeling_(using_Keras_Text_Classification).ipynb)
-* Telco Customer Churn
-	* [Exploratory Data Analysis](business_analytics_and_modeling/Telco_Customer_Churn_EDA.ipynb)
-	* [Preprocessing](business_analytics_and_modeling/Telco_Customer_Churn_Classification_Preprocessing.ipynb)
-	* [Classification using Feature Importance](business_analytics_and_modeling/Telco_Customer_Churn_Classification_using_Feature_Importance.ipynb)
-	* [Classification using PyTorch Logistic Regression with GPU](business_analytics_and_modeling/Telco_Customer_Churn_Classification_with_PyTorch_Logistic_Regression.ipynb)
-	* [Classification using PyTorch Artificial Neural Network with GPU](business_analytics_and_modeling/Telco_Customer_Churn_Classification_with_PyTorch_ANN.ipynb)
-
-### Ecommerce Personalization
 * Bank Marketing Dataset
 	* [Preprocessing](business_analytics_and_modeling/Bank_Marketing_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](business_analytics_and_modeling/Bank_Marketing_EDA.ipynb)
@@ -25,6 +17,12 @@
 	* [Exploratory Data Analysis](business_analytics_and_modeling/Starbucks_Offer_Personalizations_EDA.ipynb)
 	* [Modeling using Multi Output Random Forest Classifier](business_analytics_and_modeling/Starbucks_Offer_Personalizations_using_MultiOutputRFC.ipynb)
 	* [Neural Network using Keras Sequential Model](business_analytics_and_modeling/Starbucks_Offer_Personalizations_using_Keras_ANN.ipynb)
+* Telco Customer Churn
+	* [Exploratory Data Analysis](business_analytics_and_modeling/Telco_Customer_Churn_EDA.ipynb)
+	* [Preprocessing](business_analytics_and_modeling/Telco_Customer_Churn_Classification_Preprocessing.ipynb)
+	* [Classification using Feature Importance](business_analytics_and_modeling/Telco_Customer_Churn_Classification_using_Feature_Importance.ipynb)
+	* [Classification using PyTorch Logistic Regression with GPU](business_analytics_and_modeling/Telco_Customer_Churn_Classification_with_PyTorch_Logistic_Regression.ipynb)
+	* [Classification using PyTorch Artificial Neural Network with GPU](business_analytics_and_modeling/Telco_Customer_Churn_Classification_with_PyTorch_ANN.ipynb)
 	
 ### Employee Churn
 * IBM HR Analytics Employee Attrition and Performance
