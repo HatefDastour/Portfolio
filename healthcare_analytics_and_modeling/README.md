@@ -1,18 +1,19 @@
-# Exploratory Data Analysis
+******************************
+# Healthcare Analytics and Modeling
+******************************
 
 ## Table of contents
+* [Breast Cancer Wisconsin (Diagnostic) Classification](Breast_Cancer_Wisconsin_(Diagnostic)_Classification.ipynb)
 
-* Airbnb Listings
-	* [Preprocessing](Airbnb_Listings_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](Airbnb_Listings_exploratory_data_analysis.ipynb)
-* [Instacart Data Exploratory Data Analysis](Instacart_exploratory_data_analysis.ipynb)
 * Los Angeles County Restaurant and Market Violations and Inspections
 	* [Preprocessing](Los_Angeles_Inspection_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](Los_Angeles_Inspection_exploratory_data_analysis.ipynb)
+	* [Exploratory Data Analysis](Los_Angeles_Inspection_healthcare_analytics_and_modeling.ipynb)
 	* [Maps](Los_Angeles_Inspection_Maps.ipynb)
-* [An Example for RFM Scoring](RFM_Scoring.ipynb)
-* [Netflix Titles Exploratory Data Analysis](Netflix_titles.ipynb)
-* [State of Data Science and Machine Learning](State_of_Data_Science_and_Machine_Learning.ipynb)
+
+* Pima Indians Diabetes Data
+	* [Modeling using Voting Classifier](Pima_Indians_Diabetes_Data_Classification.ipynb)
+	* [Modeling using Feature Importance](Pima_Indians_Diabetes_Data_Classification_Feature_Importance.ipynb)
+	* [Modeling using Keras Artificial Neural Network (ANN)](Pima_Indians_Diabetes_Data_Classification_ANN.ipynb)
 
 
 ## Copyright and License

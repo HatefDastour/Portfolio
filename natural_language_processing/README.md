@@ -1,18 +1,20 @@
+******************************
 # Natural Language Processing (NLP)
+******************************
 
 ## Table of contents
 
 * Movie Recommendation System
 	* [Movie_Recommendation_system_Preprocessing.ipynb)
-	* [Modeling](/portfolio/natural_language_processing/Movie_Recommendation_system_Modeling.ipynb)
+	* [Modeling](Movie_Recommendation_system_Modeling.ipynb)
 * Spooky Author Identification Dataset
-	* [NLP using Logistic Regression](/portfolio/natural_language_processing/Spooky_Author_Identification_Dataset_NLP_using_LogReg.ipynb)
-	* [NLP using Naive Bayes Classifier for Multinomial Models](/portfolio/natural_language_processing/Spooky_Author_Identification_Dataset_NLP_using_MNB.ipynb)
-	* [NLP using Multi-layer Perceptron Classifier](/portfolio/natural_language_processing/Spooky_Author_Identification_Dataset_NLP_using_MLP.ipynb)
+	* [NLP using Logistic Regression](Spooky_Author_Identification_Dataset_NLP_using_LogReg.ipynb)
+	* [NLP using Naive Bayes Classifier for Multinomial Models](Spooky_Author_Identification_Dataset_NLP_using_MNB.ipynb)
+	* [NLP using Multi-layer Perceptron Classifier](Spooky_Author_Identification_Dataset_NLP_using_MLP.ipynb)
 * Movie Reviews Comments classifications
-	* [Modeling using Natural Language Toolkit and Naive Bayes Classifier](/portfolio/natural_language_processing/Movie_Reviews_Comments_classifications_using_Modeling_using_NLTK.ipynb)
-	* [Modeling using Natural Language Toolkit and Naive Bayes Classifier (Improved Model)](/portfolio/natural_language_processing/Movie_Reviews_Comments_classifications_using_Modeling_using_NLTK_Improved_Model.ipynb)
-* [Consumer Finance Complaints Analyzing and Modeling (using Keras Text Classification)](/portfolio/natural_language_processing/Consumer_Finance_Complaints_Analyzing_and_Modeling_(using_Keras_Text_Classification).ipynb)
+	* [Modeling using Natural Language Toolkit and Naive Bayes Classifier](Movie_Reviews_Comments_classifications_using_Modeling_using_NLTK.ipynb)
+	* [Modeling using Natural Language Toolkit and Naive Bayes Classifier (Improved Model)](Movie_Reviews_Comments_classifications_using_Modeling_using_NLTK_Improved_Model.ipynb)
+* [Consumer Finance Complaints Analyzing and Modeling (using Keras Text Classification)](Consumer_Finance_Complaints_Analyzing_and_Modeling_(using_Keras_Text_Classification).ipynb)
 
 
 ## Copyright and License

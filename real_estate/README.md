@@ -1,13 +1,20 @@
-# Real Estate
+******************************
+# Real Estate Analytics and Modeling
+******************************
 
 ## Table of contents
 
-* King County House Sales
-	* [Exploratory Data Analysis](King_County_House_Sales_EDA.ipynb)
-	* [Stacked Modeling](King_County_House_Sales_Stacked_Modeling.ipynb)
+* Airbnb Listings
+	* [Preprocessing](Airbnb_Listings_Preprocessing.ipynb)
+	* [Exploratory Data Analysis](Airbnb_Listings_real_estate.ipynb)
+	
 * Calgary Property Assessments
 	* [Preprocessing](Calgary_Property_Assessments_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](Calgary_Property_Assessments_EDA.ipynb)
+	
+* King County House Sales
+	* [Exploratory Data Analysis](King_County_House_Sales_EDA.ipynb)
+	* [Stacked Modeling](King_County_House_Sales_Stacked_Modeling.ipynb)
 
 
 ## Copyright and License
