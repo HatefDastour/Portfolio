@@ -15,7 +15,8 @@
 	* [Maps](Los_Angeles_Inspection_Maps.ipynb)
 
 * Pima Indians Diabetes Data
-	* [Modeling using Voting Classifier](Pima_Indians_Diabetes_Data_Classification.ipynb)
+	* [Preprocessing](Pima_Indians_Diabetes_Dataset_Preprocessing.ipynb)
+	* [Modeling: Voting Classifier](Pima_Indians_Diabetes_Dataset_Modeling_Voting_Classifier.ipynb)
 	* [Modeling using Feature Importance](Pima_Indians_Diabetes_Data_Classification_Feature_Importance.ipynb)
 	* [Modeling using Keras Artificial Neural Network (ANN)](Pima_Indians_Diabetes_Data_Classification_ANN.ipynb)
 
