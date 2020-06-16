@@ -5,6 +5,10 @@
 ## Table of contents
 * [Breast Cancer Wisconsin (Diagnostic) Classification](Breast_Cancer_Wisconsin_(Diagnostic)_Classification.ipynb)
 
+* Heart Disease Dataset
+	* [Exploratory Data Analysis](Heart_Disease_Dataset_EDA.ipynb)
+	* [Modeling: Tensorflow Boosted Trees Classifier with Feature Importance Analysis](Heart_Disease_Dataset_TF_Boosted_Trees_with_Feat_Importance_Analysis.ipynb)
+
 * Los Angeles County Restaurant and Market Violations and Inspections
 	* [Preprocessing](Los_Angeles_Inspection_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](Los_Angeles_Inspection_healthcare_analytics_and_modeling.ipynb)

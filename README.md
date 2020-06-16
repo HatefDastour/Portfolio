@@ -61,6 +61,10 @@
 ## Healthcare Analytics and Modeling
 * [Breast Cancer Wisconsin (Diagnostic) Classification](healthcare_analytics_and_modeling/Breast_Cancer_Wisconsin_(Diagnostic)_Classification.ipynb)
 
+* Heart Disease Dataset
+	* [Exploratory Data Analysis](healthcare_analytics_and_modeling/Heart_Disease_Dataset_EDA.ipynb)
+	* [Modeling: Tensorflow Boosted Trees Classifier with Feature Importance Analysis](healthcare_analytics_and_modeling/Heart_Disease_Dataset_TF_Boosted_Trees_with_Feat_Importance_Analysis.ipynb)
+
 * Los Angeles County Restaurant and Market Violations and Inspections
 	* [Preprocessing](healthcare_analytics_and_modeling/Los_Angeles_Inspection_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](healthcare_analytics_and_modeling/Los_Angeles_Inspection_healthcare_analytics_and_modeling.ipynb)
