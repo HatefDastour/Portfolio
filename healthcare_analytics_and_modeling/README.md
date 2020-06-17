@@ -19,7 +19,7 @@
 	* [Modeling: Voting Classifier](Pima_Indians_Diabetes_Dataset_Modeling_Voting_Classifier.ipynb)
 	* [Modeling: Feature Importance](Pima_Indians_Diabetes_Dataset_Modeling_Feature_Importance.ipynb)
 	* [Modeling: Binary Multi-layer Perceptron (MLP) using Keras](Pima_Indians_Diabetes_Dataset_Modeling_Keras_Binary_MLP.ipynb)
-
+	* [Modeling: PyTorch Artificial Neural Networks](Pima_Indians_Diabetes_Dataset_Modeling_PyTorch_ANN.ipynb)
 
 ## Copyright and License
 
