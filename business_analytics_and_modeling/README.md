@@ -9,7 +9,7 @@ Ecommerce Personalization, Customer Churn, and Employee Churn
 * Bank Marketing Dataset
 	* [Preprocessing](Bank_Marketing_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](Bank_Marketing_EDA.ipynb)
-	* [Classification using PyTorch Logistic Regression with GPU](Bank_Marketing_Modeling_using_PyTorch_Logistic_Regression.ipynb)
+	* [Modeling: PyTorch Logistic Regression with GPU](Bank_Marketing_Modeling_using_PyTorch_Logistic_Regression.ipynb)
 * [Instacart Data Exploratory Data Analysis](Instacart_exploratory_data_analysis.ipynb)
 * Starbucks Offer Personalizations
 	* [Preprocessing](Starbucks_Offer_Personalizations_Preprocessing.ipynb)

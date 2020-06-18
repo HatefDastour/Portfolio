@@ -10,7 +10,7 @@
 * Bank Marketing Dataset
 	* [Preprocessing](business_analytics_and_modeling/Bank_Marketing_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](business_analytics_and_modeling/Bank_Marketing_EDA.ipynb)
-	* [Classification using PyTorch Logistic Regression with GPU](business_analytics_and_modeling/Bank_Marketing_Modeling_using_PyTorch_Logistic_Regression.ipynb)
+	* [Modeling: PyTorch Logistic Regression with GPU](business_analytics_and_modeling/Bank_Marketing_Modeling_using_PyTorch_Logistic_Regression.ipynb)
 * [Instacart Data Exploratory Data Analysis](business_analytics_and_modeling/Instacart_exploratory_data_analysis.ipynb)
 * Starbucks Offer Personalizations
 	* [Preprocessing](business_analytics_and_modeling/Starbucks_Offer_Personalizations_Preprocessing.ipynb)
