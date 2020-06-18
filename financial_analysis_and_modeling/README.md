@@ -5,9 +5,9 @@
 ## Credit Risk Modeling and Fraud Detection
 
 * Credit Card Fraud Detection
-    * [Modeling using MLP](Credit_Card_Fraud_Detection_using_MLP.ipynb)
-    * [Modeling using Artificial Neural Network](Credit_Card_Fraud_Detection_using_ANN.ipynb)
-    * [Modeling using Feature Importance](Credit_Card_Fraud_Detection_using_Feature_Importance.ipynb)
+    * [Modeling: Multi-layer Perceptron Classifier (Neural Network)](Credit_Card_Fraud_Detection_using_MLP.ipynb)
+    * [Modeling: Keras Neural Network](Credit_Card_Fraud_Detection_using_ANN.ipynb)
+    * [Modeling: Feature Importance](Credit_Card_Fraud_Detection_using_Feature_Importance.ipynb)
 * Statlog (German Credit Data) Dataset
     * [Exploratory Data Analysis](Statlog_(German_Credit_Data)_Dataset_EDA.ipynb)
     * [Modeling: Feature Importance](Statlog_(German_Credit_Data)_using_Feature_Importance.ipynb)
