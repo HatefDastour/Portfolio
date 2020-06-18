@@ -17,8 +17,8 @@
 ## Price Predictions
 * [Industrial Production (Electric and Gas Utilities)](Industrial_Production_(Electric_and_Gas_Utilities).ipynb)
 * Price Mercari Data
-    * [Modeling using Bayesian Methods using PyMC3](Price_Mercari_Data_using_Bayesian_Methods_using_PyMC3.ipynb)
-    * [Modeling using Bayesian Methods using PyStan](Price_Mercari_Data_using_Bayesian_Methods_using_PyStan.ipynb)
+    * [Modeling: Bayesian Methods and PyMC3](Price_Mercari_Data_Modeling_using_Bayesian_Methods_and_PyMC3.ipynb)
+    * [Modeling: Bayesian Methods and PyStan](Price_Mercari_Data_Modeling_using_Bayesian_Methods_and_PyStan.ipynb)
 
 ## The Stock Market
 * [The Market Analysis for Communication Services Sector](The_Market_Analysis_for_Communication_Services_Sector.ipynb)
