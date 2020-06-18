@@ -14,7 +14,7 @@
 	
 * King County House Sales
 	* [Exploratory Data Analysis](King_County_House_Sales_EDA.ipynb)
-	* [Stacked Modeling](King_County_House_Sales_Stacked_Modeling.ipynb)
+	* [Modeling: Stacked Regression](King_County_House_Sales_Stacked_Modeling.ipynb)
 
 
 ## Copyright and License

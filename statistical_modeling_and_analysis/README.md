@@ -4,17 +4,16 @@
 
 ## Table of contents
 
-* [Black Friday (Stacked Model)](black_friday_stacked_model.ipynb)
 * [Sign Language Digits (Stacking Classifiers)](Sign_Language_Digits_Stacking_Classifiers.ipynb)
 * Daily Weather Data
-	* [Analysis and Classification using Feature Importance](Daily_Weather_Data_Analysis_and_Classification_using_Feature_Importance.ipynb)
-	* [Analysis and Classification using Artificial Neural Network](Daily_Weather_Data_Analysis_and_Classification_using_ANN.ipynb)
+	* [Modeling: Feature Importance](Daily_Weather_Data_Analysis_and_Classification_using_Feature_Importance.ipynb)
+	* [Modeling: Artificial Neural Network](Daily_Weather_Data_Analysis_and_Classification_using_ANN.ipynb)
 * Digit Recognizer
-	* [Classification using PyTorch Logistic Regression](Digit_Recognizer_Classification_using_PyTorch_Logistic_Regression.ipynb)
-	* [Digit Recognizer Classification using PyTorch ANN](Digit_Recognizer_Classification_using_PyTorch_ANN.ipynb)
+	* [Modeling: PyTorch Logistic Regression](Digit_Recognizer_Classification_using_PyTorch_Logistic_Regression.ipynb)
+	* [Modeling: PyTorch ANN](Digit_Recognizer_Classification_using_PyTorch_ANN.ipynb)
 * [Movie Recommendation System](Movie_Recommendation_System.ipynb)
-* [Netflix Titles Exploratory Data Analysis](business_analytics_and_modeling/Netflix_titles.ipynb)
-* [State of Data Science and Machine Learning](business_analytics_and_modeling/State_of_Data_Science_and_Machine_Learning.ipynb)
+* [Netflix Titles Exploratory Data Analysis](Netflix_titles.ipynb)
+* [State of Data Science and Machine Learning](State_of_Data_Science_and_Machine_Learning.ipynb)	
 
 ## Copyright and License
 

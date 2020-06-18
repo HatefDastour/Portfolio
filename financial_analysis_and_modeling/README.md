@@ -4,15 +4,14 @@
 
 ## Credit Risk Modeling and Fraud Detection
 
-* [Lending Data Modeling using Decision Trees and Random Forests](Lending_Data_Modeling_using_Decision_Trees_and_Random_Forests.ipynb)
 * Credit Card Fraud Detection
     * [Modeling using MLP](Credit_Card_Fraud_Detection_using_MLP.ipynb)
     * [Modeling using Artificial Neural Network](Credit_Card_Fraud_Detection_using_ANN.ipynb)
     * [Modeling using Feature Importance](Credit_Card_Fraud_Detection_using_Feature_Importance.ipynb)
 * Statlog (German Credit Data) Dataset
     * [Exploratory Data Analysis](Statlog_(German_Credit_Data)_Dataset_EDA.ipynb)
-    * [Modeling using Feature Importance](Statlog_(German_Credit_Data)_using_Feature_Importance.ipynb)
-    * [Modeling using Keras](Statlog_(German_Credit_Data)_using_Keras.ipynb)
+    * [Modeling: Feature Importance](Statlog_(German_Credit_Data)_using_Feature_Importance.ipynb)
+    * [Modeling: Keras Sequential Neural Network](Statlog_(German_Credit_Data)_using_Keras.ipynb)
 
 ## Price Predictions
 * [Industrial Production (Electric and Gas Utilities)](Industrial_Production_(Electric_and_Gas_Utilities).ipynb)
@@ -21,10 +20,10 @@
     * [Modeling: Bayesian Methods and PyStan](Price_Mercari_Data_Modeling_using_Bayesian_Methods_and_PyStan.ipynb)
 
 ## The Stock Market
-* [The Market Analysis for Communication Services Sector](The_Market_Analysis_for_Communication_Services_Sector.ipynb)
-* [The Market Analysis for Cryptocurrencies](The_Market_Analysis_for_Cryptocurrencies.ipynb)
-* [The Market Analysis for Technology Services Sector](The_Market_Analysis_for_Technology_Services.ipynb)
-
+* The Market Analysis and Predicting Future Behaviors
+	* [Communication Services Sector](The_Market_Analysis_for_Communication_Services_Sector.ipynb)
+	* [Cryptocurrencies](The_Market_Analysis_for_Cryptocurrencies.ipynb)
+	* [Technology Services Sector](The_Market_Analysis_for_Technology_Services.ipynb)
 
 ## Copyright and License
 

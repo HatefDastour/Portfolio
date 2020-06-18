@@ -2,10 +2,8 @@
 # Business Analytics and Modeling
 ******************************
 
-Ecommerce Personalization, Customer Churn, and Employee Churn
-
 ## Ecommerce Personalization
-* [An Example for RFM Scoring](RFM_Scoring.ipynb)
+* [An Example for RFM Scoring](business_analytics_and_modeling/RFM_Scoring.ipynb)
 * Bank Marketing Dataset
 	* [Preprocessing](Bank_Marketing_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](Bank_Marketing_EDA.ipynb)
@@ -14,20 +12,20 @@ Ecommerce Personalization, Customer Churn, and Employee Churn
 * Starbucks Offer Personalizations
 	* [Preprocessing](Starbucks_Offer_Personalizations_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](Starbucks_Offer_Personalizations_EDA.ipynb)
-	* [Modeling using Multi Output Random Forest Classifier](Starbucks_Offer_Personalizations_using_MultiOutputRFC.ipynb)
-	* [Neural Network using Keras Sequential Model](Starbucks_Offer_Personalizations_using_Keras_ANN.ipynb)
+	* [Modeling: Multi Output Random Forest Classifier](Starbucks_Offer_Personalizations_using_MultiOutputRFC.ipynb)
+	* [Modeling: Keras Sequential Neural Network](Starbucks_Offer_Personalizations_using_Keras_ANN.ipynb)
 * Telco Customer Churn
 	* [Exploratory Data Analysis](Telco_Customer_Churn_EDA.ipynb)
 	* [Preprocessing](Telco_Customer_Churn_Classification_Preprocessing.ipynb)
-	* [Classification using Feature Importance](Telco_Customer_Churn_Classification_using_Feature_Importance.ipynb)
-	* [Classification using PyTorch Logistic Regression with GPU](Telco_Customer_Churn_Classification_with_PyTorch_Logistic_Regression.ipynb)
-	* [Classification using PyTorch Artificial Neural Network with GPU](Telco_Customer_Churn_Classification_with_PyTorch_ANN.ipynb)
-	
+	* [Modeling: Feature Importance](Telco_Customer_Churn_Classification_using_Feature_Importance.ipynb)
+	* [Modeling: PyTorch Logistic Regression with GPU](Telco_Customer_Churn_Classification_with_PyTorch_Logistic_Regression.ipynb)
+	* [Modeling: PyTorch Artificial Neural Network with GPU](Telco_Customer_Churn_Classification_with_PyTorch_ANN.ipynb)
+
 ## Employee Churn
 * IBM HR Analytics Employee Attrition and Performance
 	* [Exploratory Data Analysis](IBM_HR_Analytics_EDA.ipynb)
-	* [Modeling using Stacking Classifiers](IBM_HR_Analytics_Modeling_using_Stacking_Classifiers.ipynb)
-	* [Modeling using Keras Artificial Neural Network](IBM_HR_Analytics_Modeling_using_ANN.ipynb)
+	* [Modeling: Stacking Classifiers](IBM_HR_Analytics_Modeling_using_Stacking_Classifiers.ipynb)
+	* [Modeling: Keras Artificial Neural Network](IBM_HR_Analytics_Modeling_using_ANN.ipynb)
 
 
 ## Copyright and License
