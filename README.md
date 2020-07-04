@@ -73,6 +73,16 @@
 	* [Modeling: Binary Multi-layer Perceptron (MLP) using Keras](healthcare_analytics_and_modeling/Pima_Indians_Diabetes_Dataset_Modeling_Keras_Binary_MLP.ipynb)
 	* [Modeling: PyTorch Artificial Neural Networks](healthcare_analytics_and_modeling/Pima_Indians_Diabetes_Dataset_Modeling_PyTorch_ANN.ipynb)
 
+## Kaggle Competitions
+
+* [Instacart Data Exploratory Data Analysis](business_analytics_and_modeling/Instacart_EDA.ipynb)
+* Digit Recognizer
+	* [Modeling: PyTorch Logistic Regression](statistical_modeling_and_analysis/Digit_Recognizer_Classification_using_PyTorch_Logistic_Regression.ipynb)
+	* [Modeling: PyTorch ANN](statistical_modeling_and_analysis/Digit_Recognizer_Classification_using_PyTorch_ANN.ipynb)
+* 1C Software Dataset Modeling
+	* [Exploratory Data Analysis](kaggle_competitions/1C_Software_Dataset_Preprocessing_EDA.ipynb)
+	* [Modeling: Catboost GPU](kaggle_competitions/1C_Software_Dataset_Modeling_Catboost.ipynb)
+
 ## Natural Language Processing (NLP)
 
 * Movie Recommendation System
