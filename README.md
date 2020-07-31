@@ -82,6 +82,9 @@
 * 1C Software Dataset Modeling
 	* [Exploratory Data Analysis](kaggle_competitions/1C_Software_Dataset_Preprocessing_EDA.ipynb)
 	* [Modeling: Catboost GPU](kaggle_competitions/1C_Software_Dataset_Modeling_Catboost.ipynb)
+* House Prices: Advanced Regression Techniques
+	* [Preprocessing](kaggle_competitions/House_Prices_Preprocessing.ipynb)
+	* [Stacked Modeling](kaggle_competitions/House_Prices_Stacked_Modeling.ipynb)
 
 ## Natural Language Processing (NLP)
 
