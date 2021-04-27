@@ -4,23 +4,25 @@
 
 ## Table of contents
 
-* [Breast Cancer Wisconsin (Diagnostic) Classification](healthcare_analytics_and_modeling/Breast_Cancer_Wisconsin_(Diagnostic)_Classification.ipynb)
+* Breast Cancer Wisconsin (Diagnostic) Classification
+	* [Modeling: Gradient Boosting Classifier](Breast_Cancer_Wisconsin_GBC.ipynb)
+	* [Modeling: K-Nearest Neighbors Classifier](Breast_Cancer_Wisconsin_KNN.ipynb)
+	* [Modeling: Multi-layer Perceptron Classifier (MLP) Classifier](Breast_Cancer_Wisconsin_MLPClassifier.ipynb)
+	* [Modeling: Random Forest Classifier](Breast_Cancer_Wisconsin_RFC.ipynb)
+	* [Modeling: Support Vector Machine](Breast_Cancer_Wisconsin_SVM.ipynb)
 
 * Heart Disease Dataset
-	* [Exploratory Data Analysis](/Heart_Disease_Dataset_EDA.ipynb)
-	* [Modeling: Tensorflow Boosted Trees Classifier with Feature Importance Analysis](/Heart_Disease_Dataset_TF_Boosted_Trees_with_Feat_Importance_Analysis.ipynb)
+	* [Exploratory Data Analysis](Heart_Disease_Dataset_EDA.ipynb)
+	* [Modeling: Tensorflow Boosted Trees Classifier with Feature Importance Analysis](Heart_Disease_Dataset_TF_Boosted_Trees.ipynb)
 
 * Los Angeles County Restaurant and Market Violations and Inspections
-	* [Preprocessing](/Los_Angeles_Inspection_Preprocessing.ipynb)
-	* [Exploratory Data Analysis](/Los_Angeles_Inspection_exploratory_data_analysis.ipynb)
-	* [Maps](/Los_Angeles_Inspection_Maps.ipynb)
+	* [Preprocessing](Los_Angeles_Inspection_Preprocessing.ipynb)
+	* [Exploratory Data Analysis](Los_Angeles_Inspection_exploratory_data_analysis.ipynb)
+	* [Maps](Los_Angeles_Inspection_Maps.ipynb)
 
 * Pima Indians Diabetes Data
-	* [Preprocessing](/Pima_Indians_Diabetes_Dataset_Preprocessing.ipynb)
-	* [Modeling: Voting Classifier](/Pima_Indians_Diabetes_Dataset_Modeling_Voting_Classifier.ipynb)
-	* [Modeling: Feature Importance](/Pima_Indians_Diabetes_Dataset_Modeling_Feature_Importance.ipynb)
-	* [Modeling: Binary Multi-layer Perceptron (MLP) using Keras](/Pima_Indians_Diabetes_Dataset_Modeling_Keras_Binary_MLP.ipynb)
-	* [Modeling: PyTorch Artificial Neural Networks](/Pima_Indians_Diabetes_Dataset_Modeling_PyTorch_ANN.ipynb)
+	* [Preprocessing](Pima_Indians_Diabetes_Preprocessing.ipynb)
+	* [Modeling: Gradient Boosting Classifier with Feature Ranking](Pima_Indians_Diabetes_GBC_Feature_Importance.ipynb)
 
 ## Copyright and License
 

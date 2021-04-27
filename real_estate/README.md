@@ -7,14 +7,16 @@
 * Airbnb Listings
 	* [Preprocessing](Airbnb_Listings_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](Airbnb_Listings_exploratory_data_analysis.ipynb)
-	
 * Calgary Property Assessments
 	* [Preprocessing](Calgary_Property_Assessments_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](Calgary_Property_Assessments_EDA.ipynb)
-	
+* House Prices: Advanced Regression Techniques
+	* [Preprocessing](/portfolio/kaggle_competitions/House_Prices_Preprocessing.ipynb)
+	* [Modeling: Stacked Modeling](/portfolio/kaggle_competitions/House_Prices_Stacked_Modeling.ipynb)
 * King County House Sales
+	* [Preprocessing](King_County_House_Sales_Preprocessing.ipynb)
 	* [Exploratory Data Analysis](King_County_House_Sales_EDA.ipynb)
-	* [Modeling: Stacked Regression](King_County_House_Sales_Stacked_Modeling.ipynb)
+	* [Modeling: Stacked Modeling](King_County_House_Sales_Stacked_Modeling.ipynb)
 
 
 ## Copyright and License
