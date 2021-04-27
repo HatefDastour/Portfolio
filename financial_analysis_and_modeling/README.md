@@ -5,25 +5,32 @@
 ## Credit Risk Modeling and Fraud Detection
 
 * Credit Card Fraud Detection
-    * [Modeling: Multi-layer Perceptron Classifier (Neural Network)](Credit_Card_Fraud_Detection_using_MLP.ipynb)
-    * [Modeling: Keras Neural Network](Credit_Card_Fraud_Detection_using_ANN.ipynb)
-    * [Modeling: Feature Importance](Credit_Card_Fraud_Detection_using_Feature_Importance.ipynb)
+	* [Modeling: scikit-learn Multi-layer Perceptron Classifier (MLP)](Credit_Card_Fraud_Detection_SL_MLP.ipynb)
+	* [PyTorch Multi-layer Perceptron (MLP) for Binary classification](Credit_Card_Fraud_Detection_PyTorch_MLP.ipynb)
 * Statlog (German Credit Data) Dataset
-    * [Exploratory Data Analysis](Statlog_(German_Credit_Data)_Dataset_EDA.ipynb)
-    * [Modeling: Feature Importance](Statlog_(German_Credit_Data)_using_Feature_Importance.ipynb)
-    * [Modeling: Keras Sequential Neural Network](Statlog_(German_Credit_Data)_using_Keras.ipynb)
+	* [Preprocessing](Statlog_Dataset_Preprocessing.ipynb)
+	* [Exploratory Data Analysis](Statlog_Dataset_EDA.ipynb)
+	* [Modeling: PyTorch Multi-layer Perceptron (MLP) for Binary Classification](Statlog_Dataset_Modeling_PyTorch_MLP.ipynb)
+	* [Modeling: Gradient Boosting Classifier](Statlog_Dataset_Modeling_GBC.ipynb)
 
 ## Price Predictions
 * [Industrial Production (Electric and Gas Utilities)](Industrial_Production_(Electric_and_Gas_Utilities).ipynb)
-* Price Mercari Data
-    * [Modeling: Bayesian Methods and PyMC3](Price_Mercari_Data_Modeling_using_Bayesian_Methods_and_PyMC3.ipynb)
-    * [Modeling: Bayesian Methods and PyStan](Price_Mercari_Data_Modeling_using_Bayesian_Methods_and_PyStan.ipynb)
+* Mercari Price Suggestion
+	* [Exploratory Data Analysis](Mercari_Price_Suggestion_EDA.ipynb)
+	* [Modeling: Bayesian Methods and PyStan](Mercari_Price_Suggestion_PyStan.ipynb)
+	* [Modeling: Bayesian Methods and PyMC3](Mercari_Price_Suggestion_PyMC3.ipynb)
 
-## The Stock Market
-* The Market Analysis and Predicting Future Behaviors
-	* [Communication Services Sector](The_Market_Analysis_for_Communication_Services_Sector.ipynb)
-	* [Cryptocurrencies](The_Market_Analysis_for_Cryptocurrencies.ipynb)
-	* [Technology Services Sector](The_Market_Analysis_for_Technology_Services.ipynb)
+
+## Sale Predictions
+* Predict Future Sales
+	* [Preprocessing](Predict_Future_Sales_Preprocessing.ipynb)
+	* [Exploratory Data Analysis](Predict_Future_Sales_EDA.ipynb)
+	* [Modeling: CatBoost Regressor](Predict_Future_Sales_Modeling_CatBoostReg.ipynb)
+	
+## The Market Analysis 
+* [The Market Analysis for Communication Services Sector](The_Market_Analysis_for_Communication_Services_Sector.ipynb)
+* [The Market Analysis for Cryptocurrencies](The_Market_Analysis_for_Cryptocurrencies.ipynb)
+* [The Market Analysis for Technology Services](The_Market_Analysis_for_Technology_Services.ipynb)
 
 ## Copyright and License
 
